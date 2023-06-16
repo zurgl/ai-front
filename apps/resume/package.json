@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 5000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "jotai": "^2.1.0"
+  },
+  "devDependencies": {
+    "puppeteer": "^20.2.1",
+    "eslint-config-custom": "workspace:*",
+    "tsconfig": "workspace:*"
+  }
+}

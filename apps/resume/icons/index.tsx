@@ -1,0 +1,11 @@
+export { default as ArrowRight } from "@/icons/arrow-right";
+export { default as ArrowUp } from "@/icons/arrow-up";
+export { default as Github } from "@/icons/github";
+export { default as Twitter } from "@/icons/twitter";
+export { default as HyperLink } from "@/icons/hyperlink";
+export { default as Instagram } from "@/icons/instagram";
+export { default as LinkedIn } from "@/icons/linked-in";
+export { default as FlagEn } from "@/icons/flag-en";
+export { default as FlagFr } from "@/icons/flag-fr";
+export { default as Sun } from "@/icons/sun";
+export { default as Moon } from "@/icons/moon";
